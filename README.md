@@ -1,3 +1,3 @@
 # mywall
 
-A new Flutter project.
+Minimal Social Media App Using Getx, Firebase x Firestore.
