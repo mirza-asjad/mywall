@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "371186637002",
+    "project_id": "mywall-2b42a",
+    "storage_bucket": "mywall-2b42a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371186637002:android:e552d9f676a65f2cfd3c33",
+        "android_client_info": {
+          "package_name": "com.example.mywall"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI9lQef-TmRexsu-p6axEaylTchoHJklA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
